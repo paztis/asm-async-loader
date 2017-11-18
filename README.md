@@ -1,7 +1,6 @@
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
 [![deps][deps]][deps-url]
-[![chat][chat]][chat-url]
 
 <div align="center">
   <h1>ASM Async Loader</h1>
