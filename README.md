@@ -61,3 +61,13 @@ promise
         //script loading failed
     });
 ```
+
+
+[npm]: https://img.shields.io/npm/v/asm-async-loader.svg
+[npm-url]: https://npmjs.com/package/asm-async-loader
+
+[node]: https://img.shields.io/node/v/asm-async-loader.svg
+[node-url]: https://nodejs.org
+
+[deps]: https://david-dm.org/paztis/asm-async-loader.svg
+[deps-url]: https://david-dm.org/paztis/asm-async-loader
