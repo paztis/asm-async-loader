@@ -1,6 +1,6 @@
 {
   "name": "asm-async-loader",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "description": "async loader of asm scripts for webpack",
   "main": "index.js",
   "scripts": {
